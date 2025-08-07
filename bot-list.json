@@ -1,80 +1,36 @@
-[
-  {
-    "name": "Yumiella Dolkness",
-    "number": "6283863595922",
-    "ownerNumber": "6283156669609",
-    "status": "online"
-  },
-  {
-    "name": "Mita",
-    "number": "628382539",
-    "ownerNumber": "6283156669609",
-    "status": "error"
-  },
-  {
-    "name": "Rio Tsukatsuki",
-    "number": "6281246320260",
-    "ownerNumber": "6283156669609",
-    "status": "online"
-  },
-  {
-    "name": "Yae Miko",
-    "number": "5491133316197",
-    "ownerNumber": "60149549421",
-    "status": "online"
-  },
-  {
-    "name": "kato megumi",
-    "number": "6289675784651",
-    "ownerNumber": "6283156669609",
-    "status": "online"
-  },
-  {
-    "name": "Hatsune Miku",
-    "number": "6283856849843",
-    "ownerNumber": "60149549421",
-    "status": "online"
-  },
-  {
-    "name": "Gawr Gura",
-    "number": "212771711260",
-    "ownerNumber": "60149549421",
-    "status": "online"
-  },
-  {
-    "name": "Ogiwara Sayu",
-    "number": "6282134224253",
-    "ownerNumber": "6282134224253",
-    "status": "error"
-  },
-  {
-    "name": "Hayase Yuuka",
-    "number": "85259135484",
-    "ownerNumber": "60149549421",
-    "status": "error"
-  },
-  {
-    "name": "Sameko Saba",
-    "number": "212644175818",
-    "ownerNumber": "60149549421",
-    "status": "online"
-  },
-  {
-    "name": "Shiroko",
-    "number": "60139533168",
-    "ownerNumber": "60149549421",
-    "status": "online"
-  },
-  {
-    "name": "Hara Yaoyorozu",
-    "number": "6282116177313",
-    "ownerNumber": "6282116177313",
-    "status": "error"
-  },
-  {
-    "name": "Kayoko MD",
-    "number": "6287842754465",
-    "ownerNumber": "6287764830185",
-    "status": "error"
-  }
-]
+{
+  "botVersion": "7.0-Beta-01",
+  "type": "Multi Device",
+  "botName": "Shiroine",
+  "botMode": "online",
+  "selfMode": false,
+  "owners": [
+    {
+      "number": "6283156669609",
+      "name": "Suher"
+    },
+    {
+      "number": "6283863595922",
+      "name": "Miell"
+    }
+  ],
+  "blacklist": [
+    "6287757330888-1584431755@g.us",
+    "120363215286569318@g.us",
+    "120363123513341094@g.us",
+    "120363060002143073@g.us",
+    "120363154740473896@g.us",
+    "120363042358197912@g.us",
+    "6287757330888-1584431755@g.us",
+    "120363341087714124@g.us",
+    "120363317918874563@g.us",
+    "120363143010269742@g.us",
+    "120363373451877644@g.us",
+    "120363366354964594@g.us",
+    "120363145183654799@g.us",
+    "120363347021473313@g.us",
+    "6285847985982-1527746062@g.us",
+    "120363417859288639@g.us",
+    "120363420354007681@g.us"
+  ]
+}
