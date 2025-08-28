@@ -21,7 +21,7 @@
         "name": "Yae Miko",
         "number": "5491133316197",
         "ownerNumber": "60149549421",
-        "status": "error"
+        "status": "online"
     },
     {
         "name": "kato megumi",
@@ -33,7 +33,7 @@
         "name": "Hatsune Miku",
         "number": "6283856849843",
         "ownerNumber": "60149549421",
-        "status": "online"
+        "status": "error"
     },
     {
         "name": "Gawr Gura",
@@ -63,7 +63,7 @@
         "name": "Shiroko",
         "number": "60139533168",
         "ownerNumber": "60149549421",
-        "status": "error"
+        "status": "offline"
     },
     {
         "name": "Hara Yaoyorozu",
