@@ -3,13 +3,13 @@
         "name": "Yumiella Dolkness",
         "number": "6283863595922",
         "ownerNumber": "6283156669609",
-        "status": "online"
+        "status": "error"
     },
     {
         "name": "Mita",
         "number": "6283879344576",
         "ownerNumber": "6283156669609",
-        "status": "online"
+        "status": "offline"
     },
     {
         "name": "Rio Tsukatsuki",
@@ -21,7 +21,7 @@
         "name": "Yae Miko",
         "number": "5491133316197",
         "ownerNumber": "60149549421",
-        "status": "online"
+        "status": "offline"
     },
     {
         "name": "kato megumi",
@@ -39,13 +39,13 @@
         "name": "Gawr Gura",
         "number": "212771711260",
         "ownerNumber": "60149549421",
-        "status": "online"
+        "status": "offline"
     },
     {
         "name": "Ogiwara Sayu",
         "number": "6282134224253",
         "ownerNumber": "6282134224253",
-        "status": "online"
+        "status": "offline"
     },
     {
         "name": "Hayase Yuuka",
@@ -57,7 +57,7 @@
         "name": "Sameko Saba",
         "number": "212644175818",
         "ownerNumber": "60149549421",
-        "status": "online"
+        "status": "offline"
     },
     {
         "name": "Shiroko",
